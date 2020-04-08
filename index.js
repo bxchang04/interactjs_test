@@ -1,3 +1,5 @@
+import interact from 'interactjs';
+
 const position = { x: 0, y: 0 }
 
 interact('.draggable').draggable({
